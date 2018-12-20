@@ -1,0 +1,13 @@
+article {
+  border: 1px solid black;
+  margin-left: 20px;
+
+}
+img {
+  margin-left: 0px;
+  height: 80px;
+  width: 80px;
+  vertical-align: middle;
+
+  padding-left: -70px;
+}
